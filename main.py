@@ -259,7 +259,7 @@ def menu(): #menu
                 font=tabfont, #dump in the font style
                 relief=FLAT, #no 3D
                 padx=21.9, #set the pady
-                pady=3, set the padx
+                pady=3, #set the padx
                 disabledforeground='white', #set the background when the button is being disabled
                 state=DISABLED, #disable the button
                 command=meaningfunc, #set what thing to do when the button get press
